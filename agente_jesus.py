@@ -1,7 +1,7 @@
 import openai
 
 # Configurar sua chave de API
-openai.api_key = "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"
+openai.api_key = 
 
 def jesus_agent(prompt):
     """
